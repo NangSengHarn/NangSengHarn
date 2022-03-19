@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nang Seng Harn</h1>
-<h3 align="center">junior frontend developer</h3>
+<h3 align="center">junior web developer</h3>
 
 - 🌱 I’m currently learning **laravel,django**
 
