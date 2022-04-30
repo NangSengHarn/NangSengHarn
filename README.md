@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nang Seng Harn</h1>
 <h3 align="center">junior web developer</h3>
 
-- 🌱 I’m currently learning **laravel,django**
+- 🌱 I’m currently learning **react js and node js**
 
 - 📫 How to reach me **nangsengharn@gmail.com**
 
